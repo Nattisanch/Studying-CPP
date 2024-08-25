@@ -10,9 +10,10 @@ using namespace std;
 
 int main(){
 
-
     return 0;
 }
+  //beginner guide to go back to incase
+
     //switch = alternative to using many else if statements
     //compare one value against matching cases
    // char grade;
@@ -187,3 +188,27 @@ int main(){
     //double score = correct/(double)questions *100;
 
     //cout<<score<<"%";
+
+
+
+// ternary operator ?: = replacement to an if/else statement
+//condition ? expression1: expression 2
+
+ // int grade = 75;
+ // grade >= 60 ? cout << "You passed!" :cout<< "You didn't pass!";
+
+  //int num = 9;
+ // num % 2 == 1 ? cout << "Odd": cout<<"even"; 
+
+ //bool hungry = true;
+ // hungry == true? cout <<" You are hungry": cout << " you arent hungry";
+
+    //bool hungry = true;
+  //  cout<< (hungry ? "you are hungry": "you are fool");
+  //tried my own
+
+  //  char age;
+   // cout << "PLease enter your age: ";
+    //cin >> age;
+
+    //age >=18 ? cout<< "You are old enough": cout<<"You are underage";
